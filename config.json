@@ -1,0 +1,10 @@
+{
+    "input_file": "data/input.csv",
+    "output_file": "output/processed_data.csv",
+    "log_file": "logs/pipeline.log",
+    "missing_values": {
+        "age": 0,
+        "salary": 0,
+        "city": "Unknown"
+    }
+}
